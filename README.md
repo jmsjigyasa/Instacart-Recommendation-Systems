@@ -7,14 +7,9 @@ https://www.kaggle.com/c/instacart-market-basket-analysis/data
 #### Link to Project Demo Website - 35.190.167.191
 ##### Note to login try using any integer value from 1-230000 as username and any password, Also for accessing the admin page use username-admin, password-tushar
 
-#### Link for the presentation on SlideShare: https://www.slideshare.net/TusharGoel42/final-project-ads-info7390
-
 ### Made by:
               1. Tushar Goel 
-              2. Jaini Bhansali
-### Professor-Srikanth Krishnamurthy
-
-##### This Github Repo contains the final project for the course INFO 7390 under the guidance of Professor Srikanth Krishnamurthy and TA Nand Govind Modani.
+              2. Jigyasa Kohli
 
 ##### Directory Structure of this repo:
   1. EDA and Summary Metrics - This folder contains the jupyter notebook that contains all the exploratory data analysis and tableau visualizations
@@ -45,4 +40,4 @@ Stakeholders Benefited
 In order to achieve our goal we used the Instacart Dataset that has been made public. The details of the dataset are present below.
 
  
-### To get more details on the project please check the file FinalProjectReport.pdf
+### To get more details on the project please check the file FinalProjectReport.doc
